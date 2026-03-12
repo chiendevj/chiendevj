@@ -10,7 +10,6 @@
 - 📂 My projects:
   - 🍵 Web:
     - [Restaurant - Order QR Code](https://github.com/chiendevj/suoida-qrorder) - Laravel + Vuejs
-    - [Phoidonam Landing](https://github.com/chiendevj/OrganicWeb)
 
 <!-- - 🥇 My awards and certifications: [awards](https://github.com/chiendevj/certifications) -->
 
