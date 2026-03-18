@@ -13,7 +13,7 @@
 
 <!-- - 🥇 My awards and certifications: [awards](https://github.com/chiendevj/certifications) -->
 
-- 🌱 I’m currently learning **React JS-TS, UX/UI,...**
+- 🌱 I’m currently learning **Vue.js, Angular, UX/UI,...**
 
 - 📫 How to reach me **chienttrants@gmail.com**
 
