@@ -7,9 +7,10 @@
 
 - 💁‍ My portfolio: [PORTFOLIO](https://chienttrandev.io.vn/)
 
-- 📂 My projects:
+- 📂 Colab projects:
   - 🍵 Web:
     - [Restaurant - Order QR Code](https://github.com/chiendevj/suoida-qrorder) - Laravel + Vuejs
+    - EMPOS - Nextjs
 
 <!-- - 🥇 My awards and certifications: [awards](https://github.com/chiendevj/certifications) -->
 
