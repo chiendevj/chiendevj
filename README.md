@@ -5,8 +5,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chiendevj&label=Profile%20views&color=0e75b6&style=flat" alt="chiendevj" /> </p>
 
-- 💁‍ My portfolio: [PORTFOLIO](https://chienttrandev.io.vn/)
-
 - 📂 Colab projects:
   - 🍵 Web:
     - [Restaurant - Order QR Code](https://github.com/chiendevj/suoida-qrorder) - Laravel + Vuejs
